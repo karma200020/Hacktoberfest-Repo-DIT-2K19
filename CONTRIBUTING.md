@@ -27,3 +27,8 @@ About: Programming teacher<br/>
 Programming Language: Java, JS, C, C++, C#<br/>
 Email: and1res@hotmail.com<br/>
 
+Name: [Abhishek Mishra](https://github.com/Karma200020/)<br/>
+Place: India<br/>
+About: front-End Developer<br/>
+Programming Language:C, C++, Python<br/>
+Email: diwakarprasadmishra@gmail.com<br/>
